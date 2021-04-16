@@ -1,0 +1,39 @@
+
+#google {
+    margin: auto;
+    margin-top: 25px;
+    display: flex;
+    padding-top: 109px;
+}
+
+.material-icons {
+
+}
+.wrapper {
+    position: relative;
+    display: flex;
+    min-width: 100px;
+}
+#search-icon {
+    position: absolute;
+    top: 42px;
+    left: 270px;
+    width: 14px;
+}
+#keyboard-voice {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    width: 10px;
+}
+.search {
+    border: 1px solid rgb(219, 208, 208);
+    border-radius: 24px;
+    height: 44px;
+    margin: auto;
+    margin-top: 30px;
+    width: 482px;
+    padding: 2px 23px 2px 30px;
+    outline: 0;
+    
+}
